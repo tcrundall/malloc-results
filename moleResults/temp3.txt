@@ -1,6 +1,5 @@
 Running threadtest for 3 threads, 50 iterations, 30000 objects, 10 work and 32 objSize...
-Time elapsed = 0.114436
-Running threadtest for 3 threads, 50 iterations, 30000 objects, 10 work and 32 objSize...
-Time elapsed = 0.0566374
-Running threadtest for 3 threads, 50 iterations, 30000 objects, 10 work and 32 objSize...
-Time elapsed = 0.0505804
+0.06077938000000001	0.014863115999666948
+0.05080228	0.0004042154810384076
+0.049510769999999996	0.0005030027082984302
+0.149508	0.006062171979671237

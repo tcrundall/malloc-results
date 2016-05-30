@@ -1,6 +1,1 @@
-ObjSize 	 glib 	 hoard 	 tcmalloc
-2	0.0431222	0.0346416	0.0355743
-4	0.0436464	0.0408588	0.0375791
-8	0.0414104	0.0427853	0.0399229
-16	0.0544056	0.0432325	0.04092
-32	0.0735861	0.0386776	0.0417042
+Thread count	glib	stdev	hoard	stdev	tcmalloc	stdev	tcmalloc-edited	stdev	scalloc	stdev
